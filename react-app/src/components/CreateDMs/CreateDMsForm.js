@@ -44,12 +44,12 @@ function CreateDMForm({ onClose }) {
             members: setArr
         }
 
-        const createdChannel = await dispatch(createOneChannel(userId, payload))
-        if (createdChannel) {
+        const createdDM = await dispatch(createOneChannel(userId, payload))
+        if (createdDM) {
             setErrors([])
             set.clear();
             await dispatch(getAllChannels(userId))
-            history.push(`/users/${userId}/${createdChannel.id}`)
+            history.push(`/users/${userId}/${createdDM.id}`)
             onClose(false)
         }
     }
