@@ -1,8 +1,26 @@
 # slick
 Welcome to slick! This project is inspired by [Slack](https://slack.com/) where users have the immersive experience of channels, direct message, live server, and searching other users to begin a chat.
 
-## Link to Livesite
-[slick](https://app-slick.herokuapp.com/)
+## Index
+
+- [live site](https://app-slick.herokuapp.com/)
+
+- [Home](https://github.com/walkeradkins/slick-app/wiki)
+
+- [Backend Routes](https://github.com/walkeradkins/slick-app/wiki/Backend-Routes)
+
+- [Database Schema](https://github.com/walkeradkins/slick-app/wiki/Database-Schema)
+
+- [Feature List](https://github.com/walkeradkins/slick-app/wiki/Feature--List)
+
+- [Frontend Routes](https://github.com/walkeradkins/slick-app/wiki/Frontend-Routes)
+
+- [User Stories Channel](https://github.com/walkeradkins/slick-app/wiki/User-Stories-Channels)
+
+## Meet the Developers
+- [Walker Adkins](https://github.com/walkeradkins)
+- [Jae Shin](https://github.com/Shin-Jae)
+- [Dayton Chen](https://github.com/spursforever)
 
 ## Technologies Used
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width:60px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="width:60px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="socketio" title="socketio" width="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" title="html5" width="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" title="css3" width="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width:60px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="width:60px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" style="width:60px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" style="width:60px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width:60px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="width:60px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" style="width:60px;" />
@@ -64,9 +82,6 @@ Welcome to slick! This project is inspired by [Slack](https://slack.com/) where 
     ```
 
 9. You can sign in via Demo User or create an account yourself
-
-## Database Schema
-![slack_clone_screenshot](https://user-images.githubusercontent.com/95553923/174687114-0b2b7241-129b-4767-9e06-b5b0bacaf4eb.png)
 
 ## Features
 1. Users
